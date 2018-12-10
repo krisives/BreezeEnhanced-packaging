@@ -1,0 +1,11 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: breezeenhanced
+Source: https://github.com/tsujan/BreezeEnhanced
+
+Files: *
+Copyright: 2016-2018 Pedram Pourang <tsujan2000@gmail.com>
+License: GPL-3+
+
+Files: debian/*
+Copyright: 2018 Kristopher Ives <kristopher.ives@gmail.com>
+License: GPL-2+
